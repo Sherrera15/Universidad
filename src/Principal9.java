@@ -122,8 +122,8 @@ public class Principal9 extends javax.swing.JFrame {
 
     private void cmbCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmbCalcularActionPerformed
         // TODO add your handling code here:
-        String  n1, resul,rs,rt;
-        double num1 = 1,resultado = 0, res,ru;
+        String  n__1, resul,rs,rt;
+        double num1 = 0,resultado = 0, res,ru;
         
         
         
